@@ -6,7 +6,7 @@ public class Calculator{
 		int a = sc.nextInt();
 		System.out.print("Enter the number two:-");
 		int b = sc.nextInt();
-		System.out.println("Enter the operation\n1. Addition\n2. Subtraction\n3. Multiplication");
+		System.out.println("Enter the operation\n1. Addition\n2. Subtraction\n3. Multiplication\n4. Divide");
 		int operation = sc.nextInt();
 		
 		switch(operation){
