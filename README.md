@@ -1,5 +1,5 @@
-*********************************************************************CAPGEMINI JAVA FULL STACK COURSE********************************************************************* </br>
-***<h1>WEEK 1</h1>*** </br>
+*********************************************************************<h1>CAPGEMINI JAVA FULL STACK COURSE</h1>********************************************************************* </br>
+***<h3>WEEK 1</h3>*** </br>
 1.Git/GitHub</br>
 -> git init :- Initialized the repository or reintialized the repository </br>
 -> git status :- Display the working directory status.</br>
