@@ -22,6 +22,10 @@ public class Calculator{
 				System.out.print("Multiplication of the number is :- "+ (a*b));
 				break;
 			}
+			case 4:{
+				System.out.print("Remainder of the number is :- "+ (a/b));
+				break;
+			}
 			default : {
 				System.out.print("Ooops! Invalid input");
 				break;
